@@ -28,7 +28,7 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.xcmg.xgjc.MOM</string>  
+                <string>com.xgjc.scm</string>  
                 <key>bundle-version</key>  
                 <string>1.1.7</string>  
                 <key>kind</key>  
